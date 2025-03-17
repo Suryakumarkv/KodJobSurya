@@ -1,0 +1,77 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer Intern",
+      "company": "TechCorp",
+      "location": "Remote",
+      "stipend": "₹20,000/month",
+      "tags": ["React", "JavaScript", "Tailwind CSS"],
+      "logo": "/cuvette-images/techcorp.png",
+      "postedAt": "2023-07-15T10:30:00Z",
+      "description": "We are looking for a passionate Frontend Developer Intern to join our team. You will be working on exciting projects using React and modern web technologies.",
+      "requirements": [
+        "Knowledge of React, JavaScript, and HTML/CSS",
+        "Understanding of responsive design principles",
+        "Familiarity with version control systems like Git",
+        "Good problem-solving skills"
+      ],
+      "responsibilities": [
+        "Develop and maintain responsive web applications",
+        "Collaborate with the design team to implement UI/UX designs",
+        "Write clean, maintainable, and efficient code",
+        "Participate in code reviews and team discussions"
+      ],
+      "companyId": "tech-corp"
+    },
+    {
+      "id": "2",
+      "title": "Backend Engineer",
+      "company": "DataSystems",
+      "location": "Bangalore",
+      "stipend": "₹25,000/month",
+      "tags": ["Node.js", "Express", "MongoDB"],
+      "logo": "/cuvette-images/datasystems.png",
+      "postedAt": "2023-07-10T14:45:00Z",
+      "description": "DataSystems is seeking a Backend Engineer to help build scalable and efficient server-side applications.",
+      "requirements": [
+        "Experience with Node.js and Express",
+        "Knowledge of MongoDB or other NoSQL databases",
+        "Understanding of RESTful API design",
+        "Basic understanding of cloud services (AWS/Azure/GCP)"
+      ],
+      "responsibilities": [
+        "Design and implement server-side logic",
+        "Build efficient database schemas",
+        "Develop and maintain APIs",
+        "Ensure high performance and responsiveness of applications"
+      ],
+      "companyId": "data-systems"
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Design Intern",
+      "company": "CreativeMinds",
+      "location": "Hybrid",
+      "stipend": "₹15,000/month",
+      "tags": ["Figma", "Adobe XD", "UI Design"],
+      "logo": "/cuvette-images/creativeminds.png",
+      "postedAt": "2023-07-12T09:15:00Z",
+      "description": "Join our creative team as a UI/UX Design Intern and help create beautiful and functional user interfaces.",
+      "requirements": [
+        "Knowledge of design tools like Figma or Adobe XD",
+        "Understanding of UI/UX principles",
+        "Creative mindset and attention to detail",
+        "Basic knowledge of HTML/CSS is a plus"
+      ],
+      "responsibilities": [
+        "Create wireframes and prototypes",
+        "Collaborate with developers to implement designs",
+        "Conduct user research and usability testing",
+        "Create visual elements and illustrations"
+      ],
+      "companyId": "creative-minds"
+    }
+  ]
+}
+

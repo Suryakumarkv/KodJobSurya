@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "ce90df5f-0624-4c41-a39d-972abc18f26f",
+      "name": "Surya Kumar K V",
+      "email": "suryakumarkv30@gmail.com",
+      "password": "123456789",
+      "mobile": "7892521793",
+      "whatsapp": false,
+      "type": "student",
+      "createdAt": "2025-03-17T11:50:06.513Z"
+    }
+  ]
+}
